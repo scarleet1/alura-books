@@ -1,0 +1,11 @@
+:root{
+    --cor-de-fundo: #ebecee
+}
+body{
+    background-blend-mode:var(--cor-de-fundo)
+
+}
+
+h1{
+backgroud-color:white;
+}
